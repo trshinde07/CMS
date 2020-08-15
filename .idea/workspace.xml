@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42e502b7-620f-4282-9682-7e8dcb481bd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Demo" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Users\trupti.shinde\IdeaProjects\Demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNviLjogjPjuU64TTfYjckHMMF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>D:\Users\trupti.shinde\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e502b7-620f-4282-9682-7e8dcb481bd5" name="Default Changelist" comment="" />
+      <created>1579002992923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579002992923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579067773253">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.643@0.0.1366.643" timestamp="1579067773253" />
+    <state x="438" y="157" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579006783539">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="438" y="157" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.643@0.0.1366.643" timestamp="1579006783539" />
+    <state x="463" y="62" key="FileChooserDialogImpl" timestamp="1579067061501">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="463" y="62" key="FileChooserDialogImpl/0.0.1366.643@0.0.1366.643" timestamp="1579067061501" />
+    <state x="355" y="177" width="790" height="245" key="Github.ShareDialog" timestamp="1579007439308">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="355" y="177" width="790" height="245" key="Github.ShareDialog/0.0.1366.643@0.0.1366.643" timestamp="1579007439308" />
+    <state x="488" y="26" width="672" height="591" key="Github.UntrackedFilesDialog" timestamp="1579007455707">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="488" y="26" width="672" height="591" key="Github.UntrackedFilesDialog/0.0.1366.643@0.0.1366.643" timestamp="1579007455707" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1579066657142">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.643@0.0.1366.643" timestamp="1579066657142" />
+    <state x="384" y="144" key="com.intellij.ide.util.TipDialog" timestamp="1579003008173">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="384" y="144" key="com.intellij.ide.util.TipDialog/0.0.1366.643@0.0.1366.643" timestamp="1579003008173" />
+    <state x="346" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1579006918021">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="346" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1366.643@0.0.1366.643" timestamp="1579006918021" />
+    <state x="513" y="19" width="613" height="624" key="svn.repositoryBrowser" timestamp="1579007358551">
+      <screen x="0" y="0" width="1366" height="643" />
+    </state>
+    <state x="513" y="19" width="613" height="624" key="svn.repositoryBrowser/0.0.1366.643@0.0.1366.643" timestamp="1579007358551" />
+  </component>
+</project>
